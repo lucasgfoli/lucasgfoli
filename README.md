@@ -2,7 +2,7 @@
 
 - 🔭 **Atualmente, estou desenvolvendo**: O **Portal de Séries** – uma aplicação que permite aos usuários explorar, buscar e gerenciar informações sobre séries de TV. Estou utilizando **JavaScript**, **Node.js**, **Express** e **SQLite** para construir o projeto, que armazena dados de séries de forma eficiente. Para mais detalhes e acesso ao código-fonte, visite o meu repositório.
 
-- 🌱 **Atualmente estou estudando: JavaScript, desenvolvendo um site inspirado na Amazon e SQLite, aprimorando minhas habilidades no gerenciamento de bancos de dados.**
+- 🌱 **Atualmente estou estudando: JavaScript, desenvolvendo um site inspirado na Amazon e MySQL, aprimorando minhas habilidades no gerenciamento de bancos de dados.**
 
 - 📫 **Contate-me**: [Email: lucasgabrielfer.oli@gmail.com]
 
