@@ -1,42 +1,37 @@
 ## Olá! Eu sou o Lucas Oliveira👋
 
-- 🔭 **Atualmente, estou desenvolvendo**: O **Portal de Séries** – uma aplicação que permite aos usuários explorar, buscar e gerenciar informações sobre séries de TV. Estou utilizando **JavaScript**, **Node.js**, **Express** e **SQLite** para construir o projeto, que armazena dados de séries de forma eficiente. Para mais detalhes e acesso ao código-fonte, visite o meu repositório.
-
-- 🌱 **Atualmente estou estudando: JavaScript, desenvolvendo um site inspirado na Amazon e MySQL, aprimorando minhas habilidades no gerenciamento de bancos de dados.**
-
+- 🌱 **Estudante de Análise e Desenvolvimento de Sistemas.**
+- 🧠 **Aprofundando meus conhecimentos em C#, SAP, MySQL e JavaScript.**
 - 📫 **Contate-me**: [Email: lucasgabrielfer.oli@gmail.com]
 
-## 🛠 Tecnologias que estou usando
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfoli&layout=compact&theme=dark" alt="Top Languages">
 
-### JavaScript
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+### 🛠️ Tecnologias que estou utilizando:
 
-### Node.js
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+<p align="left">
+  <!-- Linguagens -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 
-### Express
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+  <!-- Backend e frameworks -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
 
-### SQLite
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+  <!-- Banco de dados -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
 
-### MySQL
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  <!-- Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
 
-### C#
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+  <!-- Versionamento de código -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
-### .NET
-![.NET](https://img.shields.io/badge/-NET-512BD4?style=flat&logo=.net&logoColor=white)
 
-### Git
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-### HTML
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-
-### CSS
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📊 GitHub Stats
 
