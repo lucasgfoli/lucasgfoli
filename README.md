@@ -3,8 +3,8 @@
 - 🌱 **Estudante de Análise e Desenvolvimento de Sistemas.**
 - 🧠 **Aprofundando meus conhecimentos em C#, SAP, MySQL e JavaScript.**
 - 📫 **Contate-me**: [Email: lucasgabrielfer.oli@gmail.com]
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfoli&layout=compact&theme=dark" alt="Top Languages">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfoli&layout=compact&theme=dark%22%20alt=%22Top%20Languages">
 
 ### 🛠️ Tecnologias que estou utilizando:
 
