@@ -4,7 +4,7 @@
 - 🧠 **Aprofundando meus conhecimentos em C#, SAP, MySQL e JavaScript.**
 - 📫 **Contate-me**: [Email: lucasgabrielfer.oli@gmail.com]
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfoli&layout=compact&theme=dark%22%20alt=%22Top%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfoli&layout=compact&theme=dark)
 
 ### 🛠️ Tecnologias que estou utilizando:
 
