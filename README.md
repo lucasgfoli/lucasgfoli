@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Oliveira👋
 
 - 🌱 **Estudante de Análise e Desenvolvimento de Sistemas.**
-- 🧠 **Aprofundando meus conhecimentos em C#, SAP, MySQL e JavaScript.**
+- 🧠 **Aprofundando meus conhecimentos em NodeJS, JavaScript e SQL.**
 - 📫 **Contate-me**: [Email: lucasgabrielfer.oli@gmail.com]
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfoli&layout=compact&theme=dark)
