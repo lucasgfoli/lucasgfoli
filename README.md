@@ -6,16 +6,16 @@
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfoli&layout=compact&theme=dark)
 
-### 🛠️ Tecnologias que estou utilizando:
+### 🛠️ Tecnologias que estou utilizando
 
-## 📜 Linguagens
+#### 📜 Linguagens
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 </p>
 
-## ⚙️ Backend & Frameworks
+#### ⚙️ Backend & Frameworks
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://fastify.dev/img/logos/fastify-white.svg" alt="Fastify" width="40" height="40" style="background-color:#000; border-radius:5px; padding:5px"/>
@@ -23,21 +23,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
 </p>
 
-## 🗄 Banco de Dados & ORM
+#### 🗄 Banco de Dados & ORM
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
 </p>
 
-## 🎨 Frontend
+#### 🎨 Frontend
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
-## 🛠 Ferramentas
+#### 🛠 Ferramentas
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
