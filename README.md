@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Lucas Oliveira👋
 
 - 🌱 **Estudante de Análise e Desenvolvimento de Sistemas.**
-- 🧠 **Aprofundando meus conhecimentos em PHP e Cake PHP 3.**
+- 🧠 **Aprofundando meus conhecimentos em PHP e Cake PHP 5.**
 - 📫 **Contate-me**: [Email: lucasgabrielfer.oli@gmail.com]
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfoli&layout=compact&theme=dark)
