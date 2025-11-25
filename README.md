@@ -4,7 +4,7 @@
 - 🧠 **Aprofundando meus conhecimentos em Python, PHP e React.**
 - 📫 **Contate-me**: [Email: lucasgabrielfer.oli@gmail.com]
   
-![Most used languages](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasgfoli&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfoli&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 ## 🛠️ Tecnologias que estou utilizando
 
