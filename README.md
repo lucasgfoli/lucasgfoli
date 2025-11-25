@@ -4,7 +4,7 @@
 - 🧠 **Aprofundando meus conhecimentos em Python, PHP e React.**
 - 📫 **Contate-me**: [Email: lucasgabrielfer.oli@gmail.com]
   
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasgfoli&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgfoli&layout=compact&theme=dark&exclude_repo=cakephp,laravel&hide_progress=false&count_private=true&include_all_commits=false)
 
 ## 🛠️ Tecnologias que estou utilizando
 
